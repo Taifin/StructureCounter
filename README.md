@@ -39,3 +39,8 @@ To run the plugin inside a test IDE instance, execute
 
 Choose any project that uses Java as its main language inside a newly created IDE instance. When the project is opened,
 you will see a new tab on the left side of the window called "Structure Counter". 
+
+After IDE finishes indexing files in your project, you will see something similar to this:
+![example](structure-counter-example.png)
+
+The information will be shown as a compressed tree, following your project structure.
